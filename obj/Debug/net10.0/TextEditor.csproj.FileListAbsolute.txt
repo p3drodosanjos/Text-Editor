@@ -13,3 +13,4 @@ C:\Users\PEDRO\Desktop\TextEditor\TextEditor\obj\Debug\net10.0\TextEditor.pdb
 C:\Users\PEDRO\Desktop\TextEditor\TextEditor\obj\Debug\net10.0\TextEditor.genruntimeconfig.cache
 C:\Users\PEDRO\Desktop\TextEditor\TextEditor\obj\Debug\net10.0\ref\TextEditor.dll
 C:\Users\PEDRO\Desktop\TextEditor\TextEditor\obj\Debug\net10.0\TextEditor.csproj.Up2Date
+C:\Users\PEDRO\Desktop\TextEditor\TextEditor\obj\Debug\net10.0\TextEditor.sourcelink.json
